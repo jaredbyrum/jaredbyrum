@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on any and all projects. I browse public projects on github looking for ismple issues i can collaborate on.
 - 📫 How to reach me:
 - Email: jaredbyrum@gmail.com
-- LinkdIn: 
-- Portfolio: TBD
+- LinkedIn: www.linkedin.com/in/jared-byrum-97420a292
+- - Portfolio: TBD
 - Github: https://github.com/jaredbyrum/
 
 <!---
